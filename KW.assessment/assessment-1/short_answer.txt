@@ -1,0 +1,84 @@
+1) What does the `rm` command in the terminal do?
+
+Your answer:
+
+
+`rm` will remove files and directories
+
+2) What terminal command would you use to list all the files and folder in the 
+   current directory?
+
+Your answer:
+
+
+Use `ls` list all the files and folders in the working directory
+
+3) Explain the difference between these two commands in the terminal:
+   
+   $ cd Users
+   $ cd /Users
+
+Your answer:
+
+
+`cd Users` is a relative path while `cd /Users` is an absolute path. For a relative path you are navigating to a subdirectory within the current directory, while for th absolute path you can navigate from anywhere in the file system
+
+4) Describe what git is and what it is used for.
+
+Your answer:
+
+
+Git is an open source version control system that allows one to track changes made to code. 
+
+5) Describe what GitHub is and what it is used for.
+
+Your answer:
+
+
+GitHub is a cloud based platform that uses Git to allow people to store their code and provides the opportunity for collaboration. 
+
+6) Which of these commands sets up a new git repository?
+    a) git clone 
+    b) git pull
+    c) git init
+    d) git status
+
+Your answer:
+
+Answer option C - git init 
+
+7) You want to check that you have properly added all the files you want to be
+   tracked in git BEFORE you make a commit. Which command will do this?
+     a) git push
+     b) git commit
+     c) git status
+     d) git remote
+
+Your answer:
+
+
+Answer option C - git status
+
+8) What is the difference between `git add` and `git commit`?
+
+Your answer:
+
+
+Git add is used to track files and any changes in them while got commit actually records changes to the repository. Git commit takes a current snapshot of the repository and permenantly saves a reference to it. 
+
+
+9) What does the `git push` command do?
+
+Your answer:
+
+
+Git push uploads and updates changes from the local repository to the remote repository. 
+
+10) When would you use the `git clone` command?
+
+Your answer:
+
+Git clone is used ot make a copy of a remote repository to a local repository. 
+
+
+
